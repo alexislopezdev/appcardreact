@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/appcardreact/static/css/main.d907a4ba.chunk.css",
+    "main.js": "/appcardreact/static/js/main.178ff4e5.chunk.js",
+    "main.js.map": "/appcardreact/static/js/main.178ff4e5.chunk.js.map",
+    "runtime-main.js": "/appcardreact/static/js/runtime-main.19e028df.js",
+    "runtime-main.js.map": "/appcardreact/static/js/runtime-main.19e028df.js.map",
+    "static/js/2.9e37e3f9.chunk.js": "/appcardreact/static/js/2.9e37e3f9.chunk.js",
+    "static/js/2.9e37e3f9.chunk.js.map": "/appcardreact/static/js/2.9e37e3f9.chunk.js.map",
+    "index.html": "/appcardreact/index.html",
+    "static/css/main.d907a4ba.chunk.css.map": "/appcardreact/static/css/main.d907a4ba.chunk.css.map",
+    "static/js/2.9e37e3f9.chunk.js.LICENSE.txt": "/appcardreact/static/js/2.9e37e3f9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19e028df.js",
+    "static/js/2.9e37e3f9.chunk.js",
+    "static/css/main.d907a4ba.chunk.css",
+    "static/js/main.178ff4e5.chunk.js"
+  ]
+}
